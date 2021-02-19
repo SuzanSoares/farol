@@ -61,6 +61,7 @@ void main(void)
                 break;
             case 7:
                 vermelhoPed(0);
+                amarelo(0);
                 vermelho(1);
                 verdePed(1);
                 t = 5000;
